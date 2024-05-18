@@ -10,4 +10,4 @@ COPY . .
 
 WORKDIR /app
 
-CMD ["python", "model.py"]
+CMD ["python", "model_handler.py"]
